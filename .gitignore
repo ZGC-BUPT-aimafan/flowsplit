@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode
+logs/*
+!logs/.gitkeep
+test*
+data/
+.DS_Store
+init_program.sh
+.venv
